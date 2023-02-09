@@ -1,0 +1,5 @@
+irfan
+cd
+ls
+pkg update
+pkg install git
